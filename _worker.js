@@ -21,7 +21,7 @@ let addressesnotls = [
 	'www.visa.com.sg#官方优选域名',
 	'www.wto.org:8080#官方优选域名',
 	'www.who.int:8880#官方优选域名',
-	'hk.rweek.top:2052'#香港反代,
+	'hk.rweek.top:2052#香港反代',
 ];
 
 // 设置优选noTLS地址api接口
